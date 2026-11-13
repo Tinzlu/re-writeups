@@ -29,6 +29,6 @@ I audit licensing and anti-tamper designs for software vendors — usually after
 Available for audits, second opinions on an existing protection design, and pre-release reviews.
 
 - GitHub: [@Tinzlu](https://github.com/Tinzlu)
-- Email: `<!-- TODO: replace with a professional address -->`
+- Email: `tin@tinzlu.com`
 
 *Based in Shanghai (UTC+8). Written English; async by default.*
